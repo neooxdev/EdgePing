@@ -1,0 +1,1 @@
+# Edge Ping is a simple Go command-line tool that pings many network devices at once to check if they're fast and reliable
